@@ -1,0 +1,10 @@
+Task 1:
+Artifacts are the by-products of the build process, such as compiled binaries, libraries, configuration files, and other dependencies required to run an application. Proper management of these artifacts is essential for several reasons:
+  1. Version Control: Managing artifacts allows teams to keep track of different versions of their software.
+  2. Efficiency: Storing and reusing artifacts saves time and computational resources.
+  3. Security: Proper artifact management ensures that only verified and trusted binaries are deployed.
+
+Task 2:
+1. Isolation: Each Docker container runs in its own isolated environment, which means that dependencies and configurations do not interfere with each other.
+2. Scalability: Docker makes it easy to scale applications by running multiple instances of a containerized application.
+3. Efficiency: Docker images are lightweight and share common layers, which makes them efficient in terms of storage and performance.
