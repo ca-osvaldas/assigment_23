@@ -5,13 +5,13 @@ module.exports = {
     node: true,
     jest: true
   },
-  extends: 'eslint:recommended',
+  extends: "eslint:recommended",
   parserOptions: {
     ecmaVersion: 12,
-    sourceType: 'module'
+    sourceType: "module"
   },
   rules: {
-    semi: ['error', 'always'],
-    quotes: ['error', 'double']
+    semi: ["error", "always"],
+    quotes: ["error", "double"]
   }
 };
